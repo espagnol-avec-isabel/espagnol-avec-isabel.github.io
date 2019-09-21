@@ -1,5 +1,5 @@
 # Tableaux de conjugaison
 
-- [Presente del indicativo (indicatif présent)](temps/presente.md)
+- [Presente del indicativo (indicatif présent)](conjugaison/presente.md)
 
 [Retour à l'index](index.md)
