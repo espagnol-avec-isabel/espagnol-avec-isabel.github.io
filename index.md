@@ -7,4 +7,4 @@
 # Autres
 
 - [Listes de vocabulaire](voc.md)
-- [Tableaux de conjugaison](verbes.md)
+- [Tableaux de conjugaison](conjugaison.md)
