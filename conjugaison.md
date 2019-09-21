@@ -4,6 +4,6 @@
 
 # Autres informations
 
-- [Irrégularités dans la conjugaison des verbes](conjugaison/irrgularite.md)
+- [Irrégularités dans la conjugaison des verbes](conjugaison/irregularite.md)
 
 [Retour à l'index](index.md)
