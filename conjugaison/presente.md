@@ -8,7 +8,7 @@ Remplacer -ar par :
 |---|---|
 |Yo|-o|
 |Tú|-as|
-|Él(Ella)|-a|
+|Él(Ella)/Usted|-a|
 |Nosotros(as)|-amos|
 |Vosotros(as)|-áis|
 |Ellos(as)/Ustedes|-an|
@@ -21,7 +21,7 @@ Remplacer -er par :
 |---|---|
 |Yo|-o|
 |Tú|-es|
-|Él(Ella)|-e|
+|Él(Ella)/Usted|-e|
 |Nosotros(as)|-emos|
 |Vosotros(as)|-éis|
 |Ellos(as)/Ustedes|-en|
@@ -34,7 +34,7 @@ Remplacer -ir par :
 |---|---|
 |Yo|-o|
 |Tú|-es|
-|Él(Ella)|-e|
+|Él(Ella)/Usted|-e|
 |Nosotros(as)|-imos|
 |Vosotros(as)|-ís|
 |Ellos(as)/Ustedes|-en|
